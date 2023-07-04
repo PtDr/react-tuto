@@ -1,0 +1,16 @@
+npx create-react-app products-crud (creer projet react)
+npm i bootstrap (importer bootstrap)
+npm i react-router-dom (importer routage react)
+
+--font icon react
+npm i --save @fortawesome/fontawesome-svg-core
+npm install --save @fortawesome/free-solid-svg-icons
+npm install --save @fortawesome/react-fontawesome
+
+npm i -g json-server (importer json server globalement dans node (fake backend))
+--lancer json-server
+json-server -w data/db.json -p 9000 (lancer json-server sur le port 9000 en surveillant le fichier db.json dans data comme base de donnée)
+
+
+
+npm i axios (importer axios)
